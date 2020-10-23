@@ -9,6 +9,7 @@ class JavaExample
 	System.out.println("Enter a character : ");
 	char ch=scanner.next().charAt(0); 
 	scanner.close();
+	
 	switch(ch){
 	   case 'a' :
 	   case 'e' :
